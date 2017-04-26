@@ -1,1 +1,1 @@
-# VivoFingerprintAnimator
+# 仿vivo指纹动画
