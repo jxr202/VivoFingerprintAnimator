@@ -1,0 +1,32 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/bezier_svg">
+
+    <target
+        android:name="line_81"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_82"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_83"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_84"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_85"
+        android:animation="@animator/anim_trim_path_end" />
+
+    <target
+        android:name="stage9"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage10"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage11"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage12"
+        android:animation="@animator/anim_default_gone" />
+</animated-vector>

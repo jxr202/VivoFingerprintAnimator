@@ -1,0 +1,12 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/bezier_svg">
+    <target
+        android:name="line_121"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_122"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_123"
+        android:animation="@animator/anim_trim_path_end" />
+</animated-vector>

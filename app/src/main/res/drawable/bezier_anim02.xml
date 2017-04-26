@@ -1,0 +1,53 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/bezier_svg">
+
+    <target
+        android:name="line_21"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_22"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_23"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_24"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_25"
+        android:animation="@animator/anim_trim_path_end" />
+    <target
+        android:name="line_26"
+        android:animation="@animator/anim_trim_path_end" />
+
+    <target
+        android:name="stage3"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage4"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage5"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage6"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage7"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage8"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage9"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage10"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage11"
+        android:animation="@animator/anim_default_gone" />
+    <target
+        android:name="stage12"
+        android:animation="@animator/anim_default_gone" />
+</animated-vector>

@@ -1,0 +1,342 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportHeight="500.0"
+    android:viewportWidth="500.0">
+    <group android:name="stage1">
+        <path
+            android:name="line_11"
+            android:pathData="M211, 161 C 208, 133 224, 117 242, 114 C 257, 112 285, 118 293, 151 C 301, 191 295, 254 256, 296"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_12"
+            android:pathData="M268, 199 C 271, 164 263, 136 246, 141 C 229, 147 242, 172 241, 199 C 239, 226 224, 257 211, 269"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_13"
+            android:pathData="M250, 155 C 255, 171 260, 204 247, 234"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_14"
+            android:pathData="M207, 321 C 226, 310 262, 281 275, 237"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_15"
+            android:pathData="M301, 280 C 320, 245 327, 200 323, 165"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_16"
+            android:pathData="M228, 384 C 238, 380 262, 365 277, 353"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage2">
+        <path
+            android:name="line_21"
+            android:pathData="M138, 305 C 105, 376 209, 410 294, 290"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_22"
+            android:pathData="M206, 276 C 197, 288 177, 295 167, 305 C 157, 315 157, 334 172, 342 C 187, 350 215, 336 248, 305"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_23"
+            android:pathData="M244, 242 C 222, 292 187, 302 177, 312 C 168, 323 177, 339 199, 326"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_24"
+            android:pathData="M266, 211 C 262, 256 229, 297 186, 320"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_25"
+            android:pathData="M244, 127 C 284, 122 288, 177 277, 227"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_26"
+            android:pathData="M292, 121 C 308, 139 311, 170 310, 192"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage3">
+        <path
+            android:name="line_31"
+            android:pathData="M123, 345 C 125, 357 136, 370 146, 374"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_32"
+            android:pathData="M217, 233 C 210, 258 198, 268 163, 292 C 128, 316 152, 370 197, 353 C 243, 337 306, 284 309, 203"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_33"
+            android:pathData="M212, 170 C 222, 268 163, 263 143, 295"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_34"
+            android:pathData="M236, 129 C 209, 142 236, 171 220, 223"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_35"
+            android:pathData="M337, 167 C 343, 246 315, 311 247, 357"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_36"
+            android:pathData="M235, 88 C 265, 82 310, 92 321, 154"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage4">
+        <path
+            android:name="line_41"
+            android:pathData="M154, 378 C 183, 389 209, 381 238, 363"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_42"
+            android:pathData="M199, 173 C 216, 280 109, 251 121, 336"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_43"
+            android:pathData="M285, 346 C 335, 295 351, 245 351, 191"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_44"
+            android:pathData="M174, 125 C 198, 54 284, 65 313, 100"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage5">
+        <path
+            android:name="line_51"
+            android:pathData="M126, 398 C 149, 413 183, 415 217, 403"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_52"
+            android:pathData="M225, 400 C 253, 390 287, 366 304, 347"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_53"
+            android:pathData="M311, 339 C 320, 328 338, 305 344, 291"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_54"
+            android:pathData="M197, 160 C 191, 115 243, 78 285, 113"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage6">
+        <path
+            android:name="line_61"
+            android:pathData="M119, 365 C 127, 383 164, 409 215, 389"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_62"
+            android:pathData="M214, 422 C 271, 404 322, 358 352, 307"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_63"
+            android:pathData="M318, 108 C 327, 120 334, 138 335, 156"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage7">
+        <path
+            android:name="line_71"
+            android:pathData="M147, 423 C 162, 428 185, 428 203, 424"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_72"
+            android:pathData="M255, 422 C 260, 420 276, 410 280, 407"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_73"
+            android:pathData="M349, 280 C 364, 244 371, 183 359, 136"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_74"
+            android:pathData="M117, 289 C 123, 277 140, 261 152, 255 C 228, 209 140, 123 224, 92"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage8">
+        <path
+            android:name="line_81"
+            android:pathData="M165, 442 C 192, 444 224, 439 247, 427"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_82"
+            android:pathData="M275, 428 C 311, 406 336, 381 355, 354"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_83"
+            android:pathData="M254, 46 C 297, 47 342, 72 356, 125"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_84"
+            android:pathData="M359, 324 C 377, 296 390, 251 392, 221"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_85"
+            android:pathData="M120, 250 C 167, 218 155, 190 156, 159 C 157, 120 168, 81 218, 65"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage9">
+        <path
+            android:name="line_91"
+            android:pathData="M253, 473 C 267, 469 288, 457 294, 452"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_92"
+            android:pathData="M286, 403 C 311, 384 339, 356 353, 333"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_93"
+            android:pathData="M357, 296 C 385, 240 383, 182 372, 131"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_94"
+            android:pathData="M120, 267 C 129, 253 160, 239 168, 217 C 177, 195 164, 164 171, 137"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_95"
+            android:pathData="M119, 216 C 138, 202 126, 181 128, 139 C 131, 97 165, 47 219, 35"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage10">
+        <path
+            android:name="line_101"
+            android:pathData="M218, 468 C 259, 456 291, 438 305, 426"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_102"
+            android:pathData="M315, 419 C 339, 402 366, 368 382, 339"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_103"
+            android:pathData="M228, 62 C 302, 48 351, 98 351, 181"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage11">
+        <path
+            android:name="line_111"
+            android:pathData="M185, 460 C 215, 456 253, 442 267, 433"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_112"
+            android:pathData="M342, 69 C 352, 79 365, 102 369, 119"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_113"
+            android:pathData="M229, 33 C 258, 28 307, 35 333, 61"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+    <group android:name="stage12">
+        <path
+            android:name="line_121"
+            android:pathData="M302, 447 Q 347, 419 373, 379"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_122"
+            android:pathData="M360, 347 Q 382, 315 389, 290"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+        <path
+            android:name="line_123"
+            android:pathData="M120, 234 C 140, 222 145, 205 142, 173 138, 141 143, 106 171, 79 199, 52 227, 47 243, 46"
+            android:strokeColor="@android:color/holo_red_dark"
+            android:strokeLineCap="round"
+            android:strokeWidth="4" />
+    </group>
+</vector>
