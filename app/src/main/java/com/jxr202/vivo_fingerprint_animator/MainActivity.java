@@ -17,6 +17,7 @@ import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
 
+
     public @BindView(R.id.bezier) ImageView bezier;
     public @BindView(R.id.text) TextView text;
     public int stage = 1;
